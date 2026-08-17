@@ -1,0 +1,8 @@
+[core]
+    remote = aws-remote
+['remote "funtelocal"']
+    url = /tmp/dvcstore
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://jazuluagass-dvcstore
